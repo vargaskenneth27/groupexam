@@ -1,4 +1,4 @@
-Person 2 making a change to the first line; One line; Person 1 editing top line again
+Person 2 making a change to the first line; One line: Whats Going on; Person 1 editing top line again
 Two line
 Three line
 Justin added line here
